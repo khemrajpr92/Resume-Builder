@@ -1,6 +1,3 @@
-# Resume Builder Application : [TRY LIVE ](https://resume-builder-7xhm.onrender.com/ "Live Website")
-
-![Made-With-React](https://img.shields.io/badge/Made_with-React-informational?style=for-the-badge&logo=react) ![Made-With-NodeJS](https://img.shields.io/badge/Made_with-NodeJS-informational?style=for-the-badge&logo=javascript) ![Made-With-Material_UI](https://img.shields.io/badge/Made_with-Material_UI-informational?style=for-the-badge&logo=material-ui)
 
 ### UPDATE : GOOGLE SIGN-IN & SESSION MANAGEMENT FEATURES ADDED (SAVE DATA ACROSS SESSIONS)
 
@@ -38,18 +35,6 @@ npm run client
   <img src="./proxy-change.png" width=100%/>
 </div>
 
-## Demo :
 
-Click on the image below to see the demo.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JkcP06CYVpc/0.jpg)](https://www.youtube.com/watch?v=JkcP06CYVpc)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/girishgr8/Resume-Builder/blob/master/LICENSE) file for details.
-
-## Credits :
-
-Referred to [this](https://www.sitepoint.com/google-auth-react-express/) for setting up Google Sign-in
-
-<h3 align="center"><b>Developed with :heart: by Girish Thatte</b></h1>
